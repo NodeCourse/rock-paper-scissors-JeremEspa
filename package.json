@@ -1,0 +1,7 @@
+{
+  "name": "rock-paper-scissors-JeremEspa",
+  "version": "0.0.1",
+  "dependencies": {
+    "random-item": "^1.0.0"
+  }
+}
